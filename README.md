@@ -3,7 +3,7 @@
 Aplicatie desktop pentru monitorizarea si diagnosticarea unui autovehicul
 prin OBD-II, folosind un adaptor ELM327 conectat prin port serial.
 
-![interfata](https://imgur.com/W4K0Kqg)
+![interfata](https://imgur.com/W4K0Kqg.png)
 
 ## Functii
 
