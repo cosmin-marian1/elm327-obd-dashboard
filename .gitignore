@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+
+# Environments
+venv/
+.venv/
+env/
+
+# Local logs and generated data
+elm.log
+logs/*.csv
+REFERAT.md
+
+# IDE and operating system files
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
